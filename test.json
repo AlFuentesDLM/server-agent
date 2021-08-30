@@ -1,0 +1,2096 @@
+{
+  "users": [
+    { "name": "alfuentes", "terminal": "console", "host": null, "pid": 158 },
+    { "name": "alfuentes", "terminal": "ttys001", "host": null, "pid": 58276 }
+  ],
+  "process": [
+    { "name": "kernel_task", "pid": 0, "username": "root", "ppid": 0 },
+    { "name": "launchd", "pid": 1, "username": "root", "ppid": 0 },
+    { "name": "syslogd", "pid": 74, "username": "root", "ppid": 1 },
+    { "name": "UserEventAgent", "pid": 75, "username": "root", "ppid": 1 },
+    { "name": "uninstalld", "pid": 78, "username": "root", "ppid": 1 },
+    { "name": "fseventsd", "pid": 79, "username": "root", "ppid": 1 },
+    { "name": "mediaremoted", "pid": 80, "username": "root", "ppid": 1 },
+    { "name": "systemstats", "pid": 84, "username": "root", "ppid": 1 },
+    { "name": "configd", "pid": 86, "username": "root", "ppid": 1 },
+    { "name": "endpointsecurity", "pid": 87, "username": "root", "ppid": 1 },
+    { "name": "powerd", "pid": 88, "username": "root", "ppid": 1 },
+    { "name": "remoted", "pid": 91, "username": "root", "ppid": 1 },
+    { "name": "logd", "pid": 93, "username": "root", "ppid": 1 },
+    { "name": "keybagd", "pid": 94, "username": "root", "ppid": 1 },
+    {
+      "name": "softwareupdated",
+      "pid": 97,
+      "username": "_softwareupdate",
+      "ppid": 1
+    },
+    { "name": "watchdogd", "pid": 99, "username": "root", "ppid": 1 },
+    {
+      "name": "SafariCloudHistoryPushAgent",
+      "pid": 100,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "mds", "pid": 103, "username": "root", "ppid": 1 },
+    {
+      "name": "iconservicesd",
+      "pid": 105,
+      "username": "_iconservices",
+      "ppid": 1
+    },
+    { "name": "kernelmanagerd", "pid": 106, "username": "root", "ppid": 1 },
+    { "name": "diskarbitrationd", "pid": 107, "username": "root", "ppid": 1 },
+    { "name": "coreduetd", "pid": 111, "username": "root", "ppid": 1 },
+    { "name": "thermalmonitord", "pid": 114, "username": "root", "ppid": 1 },
+    { "name": "contextstored", "pid": 115, "username": "root", "ppid": 1 },
+    { "name": "opendirectoryd", "pid": 116, "username": "root", "ppid": 1 },
+    { "name": "apsd", "pid": 118, "username": "root", "ppid": 1 },
+    { "name": "com.docker.vmnet", "pid": 119, "username": "root", "ppid": 1 },
+    { "name": "launchservicesd", "pid": 120, "username": "root", "ppid": 1 },
+    { "name": "timed", "pid": 121, "username": "_timed", "ppid": 1 },
+    { "name": "usbmuxd", "pid": 122, "username": "_usbmuxd", "ppid": 1 },
+    { "name": "securityd", "pid": 123, "username": "root", "ppid": 1 },
+    { "name": "locationd", "pid": 126, "username": "_locationd", "ppid": 1 },
+    { "name": "autofsd", "pid": 128, "username": "root", "ppid": 1 },
+    {
+      "name": "displaypolicyd",
+      "pid": 129,
+      "username": "_displaypolicyd",
+      "ppid": 1
+    },
+    { "name": "dasd", "pid": 130, "username": "root", "ppid": 1 },
+    { "name": "distnoted", "pid": 133, "username": "_distnote", "ppid": 1 },
+    { "name": "AppleCredentialM", "pid": 134, "username": "root", "ppid": 1 },
+    { "name": "logind", "pid": 137, "username": "root", "ppid": 1 },
+    { "name": "revisiond", "pid": 138, "username": "root", "ppid": 1 },
+    { "name": "KernelEventAgent", "pid": 139, "username": "root", "ppid": 1 },
+    { "name": "bluetoothd", "pid": 141, "username": "root", "ppid": 1 },
+    { "name": "notifyd", "pid": 142, "username": "root", "ppid": 1 },
+    { "name": "corebrightnessd", "pid": 144, "username": "root", "ppid": 1 },
+    { "name": "AirPlayXPCHelper", "pid": 145, "username": "root", "ppid": 1 },
+    { "name": "amfid", "pid": 146, "username": "root", "ppid": 1 },
+    { "name": "syspolicyd", "pid": 147, "username": "root", "ppid": 1 },
+    { "name": "cfprefsd", "pid": 148, "username": "root", "ppid": 1 },
+    { "name": "coreservicesd", "pid": 149, "username": "root", "ppid": 1 },
+    { "name": "WindowServer", "pid": 150, "username": "root", "ppid": 1 },
+    { "name": "aslmanager", "pid": 151, "username": "root", "ppid": 1 },
+    { "name": "tccd", "pid": 152, "username": "root", "ppid": 1 },
+    { "name": "analyticsd", "pid": 154, "username": "_analyticsd", "ppid": 1 },
+    { "name": "loginwindow", "pid": 158, "username": "root", "ppid": 1 },
+    { "name": "PowerUIAgent", "pid": 165, "username": "root", "ppid": 1 },
+    { "name": "authd", "pid": 177, "username": "root", "ppid": 1 },
+    { "name": "logd_helper", "pid": 181, "username": "root", "ppid": 1 },
+    { "name": "trustd", "pid": 187, "username": "_trustd", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 188,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "sysextd", "pid": 189, "username": "root", "ppid": 1 },
+    { "name": "distnoted", "pid": 193, "username": "root", "ppid": 1 },
+    { "name": "lsd", "pid": 195, "username": "root", "ppid": 1 },
+    { "name": "runningboardd", "pid": 199, "username": "root", "ppid": 1 },
+    { "name": "nehelper", "pid": 201, "username": "root", "ppid": 1 },
+    { "name": "findmydeviced", "pid": 203, "username": "root", "ppid": 1 },
+    { "name": "symptomsd", "pid": 204, "username": "_networkd", "ppid": 1 },
+    { "name": "GSSCred", "pid": 229, "username": "root", "ppid": 1 },
+    { "name": "coreaudiod", "pid": 234, "username": "_coreaudiod", "ppid": 1 },
+    { "name": "multiversed", "pid": 237, "username": "root", "ppid": 1 },
+    { "name": "com.apple.ifdrea", "pid": 238, "username": "root", "ppid": 1 },
+    { "name": "apfsd", "pid": 239, "username": "root", "ppid": 1 },
+    { "name": "airportd", "pid": 240, "username": "root", "ppid": 1 },
+    {
+      "name": "mDNSResponder",
+      "pid": 241,
+      "username": "_mdnsresponder",
+      "ppid": 1
+    },
+    {
+      "name": "nsurlsessiond",
+      "pid": 242,
+      "username": "_nsurlsessiond",
+      "ppid": 1
+    },
+    { "name": "usbd", "pid": 243, "username": "root", "ppid": 1 },
+    { "name": "nesessionmanager", "pid": 244, "username": "root", "ppid": 1 },
+    { "name": "mobileassetd", "pid": 245, "username": "root", "ppid": 1 },
+    {
+      "name": "VDCAssistant",
+      "pid": 246,
+      "username": "_cmiodalassistants",
+      "ppid": 1
+    },
+    { "name": "mDNSResponderHel", "pid": 247, "username": "root", "ppid": 1 },
+    { "name": "distnoted", "pid": 249, "username": "_coreaudiod", "ppid": 1 },
+    { "name": "awdd", "pid": 252, "username": "root", "ppid": 1 },
+    { "name": "com.apple.CodeSi", "pid": 254, "username": "root", "ppid": 1 },
+    { "name": "backupd", "pid": 255, "username": "root", "ppid": 1 },
+    { "name": "distnoted", "pid": 256, "username": "_locationd", "ppid": 1 },
+    {
+      "name": "com.apple.geod",
+      "pid": 257,
+      "username": "_locationd",
+      "ppid": 1
+    },
+    { "name": "secinitd", "pid": 258, "username": "_locationd", "ppid": 1 },
+    { "name": "cfprefsd", "pid": 259, "username": "_locationd", "ppid": 1 },
+    { "name": "trustd", "pid": 260, "username": "_locationd", "ppid": 1 },
+    {
+      "name": "containermanager",
+      "pid": 263,
+      "username": "_locationd",
+      "ppid": 1
+    },
+    { "name": "searchpartyd", "pid": 265, "username": "root", "ppid": 1 },
+    { "name": "diskmanagementd", "pid": 266, "username": "root", "ppid": 1 },
+    {
+      "name": "com.apple.audio.",
+      "pid": 269,
+      "username": "_coreaudiod",
+      "ppid": 1
+    },
+    { "name": "smd", "pid": 270, "username": "root", "ppid": 1 },
+    { "name": "AudioComponentRe", "pid": 274, "username": "root", "ppid": 1 },
+    {
+      "name": "com.apple.audio.",
+      "pid": 276,
+      "username": "_coreaudiod",
+      "ppid": 1
+    },
+    { "name": "com.mercadolibre", "pid": 282, "username": "root", "ppid": 1 },
+    {
+      "name": "distnoted",
+      "pid": 283,
+      "username": "_softwareupdate",
+      "ppid": 1
+    },
+    { "name": "wifianalyticsd", "pid": 285, "username": "root", "ppid": 1 },
+    {
+      "name": "distnoted",
+      "pid": 286,
+      "username": "_nsurlsessiond",
+      "ppid": 1
+    },
+    { "name": "fontworker", "pid": 289, "username": "root", "ppid": 1 },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 291,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 296,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 298,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 301,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 302,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    { "name": "PlugInLibrarySer", "pid": 304, "username": "root", "ppid": 1 },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 306,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 307,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    { "name": "containermanager", "pid": 308, "username": "root", "ppid": 1 },
+    { "name": "mds_stores", "pid": 309, "username": "root", "ppid": 1 },
+    { "name": "backupd-helper", "pid": 311, "username": "root", "ppid": 1 },
+    { "name": "thermald", "pid": 312, "username": "root", "ppid": 1 },
+    { "name": "distnoted", "pid": 315, "username": "_spotlight", "ppid": 1 },
+    { "name": "com.apple.Mobile", "pid": 316, "username": "root", "ppid": 1 },
+    { "name": "hidd", "pid": 317, "username": "_hidd", "ppid": 1 },
+    { "name": "distnoted", "pid": 319, "username": "_windowserver", "ppid": 1 },
+    { "name": "secinitd", "pid": 320, "username": "root", "ppid": 1 },
+    {
+      "name": "captiveagent",
+      "pid": 322,
+      "username": "_captiveagent",
+      "ppid": 1
+    },
+    { "name": "ReportCrash", "pid": 323, "username": "root", "ppid": 1 },
+    {
+      "name": "distnoted",
+      "pid": 325,
+      "username": "_reportmemoryexception",
+      "ppid": 1
+    },
+    { "name": "TouchBarServer", "pid": 328, "username": "root", "ppid": 1 },
+    { "name": "colorsync.displa", "pid": 330, "username": "root", "ppid": 1 },
+    { "name": "colorsyncd", "pid": 331, "username": "root", "ppid": 1 },
+    {
+      "name": "appleeventsd",
+      "pid": 332,
+      "username": "_appleevents",
+      "ppid": 1
+    },
+    { "name": "sysmond", "pid": 335, "username": "root", "ppid": 1 },
+    { "name": "ViewBridgeAuxili", "pid": 336, "username": "root", "ppid": 1 },
+    { "name": "bootinstalld", "pid": 338, "username": "root", "ppid": 1 },
+    { "name": "systemstats", "pid": 340, "username": "root", "ppid": 84 },
+    { "name": "com.apple.cmio.r", "pid": 343, "username": "root", "ppid": 1 },
+    {
+      "name": "distnoted",
+      "pid": 346,
+      "username": "_securityagent",
+      "ppid": 1
+    },
+    { "name": "iconservicesagen", "pid": 347, "username": "root", "ppid": 1 },
+    { "name": "ctkahp", "pid": 348, "username": "root", "ppid": 1 },
+    { "name": "coreauthd", "pid": 349, "username": "root", "ppid": 1 },
+    { "name": "com.apple.Accoun", "pid": 350, "username": "root", "ppid": 1 },
+    { "name": "ctkd", "pid": 353, "username": "_ctkd", "ppid": 1 },
+    { "name": "com.apple.Ambien", "pid": 355, "username": "root", "ppid": 1 },
+    { "name": "systemsoundserve", "pid": 356, "username": "root", "ppid": 1 },
+    { "name": "siriinferenced", "pid": 357, "username": "root", "ppid": 1 },
+    { "name": "corekdld", "pid": 364, "username": "root", "ppid": 1 },
+    {
+      "name": "bosUpdateProxy",
+      "pid": 365,
+      "username": "_softwareupdate",
+      "ppid": 1
+    },
+    { "name": "biometrickitd", "pid": 366, "username": "root", "ppid": 1 },
+    { "name": "SubmitDiagInfo", "pid": 367, "username": "root", "ppid": 1 },
+    { "name": "biokitaggdd", "pid": 376, "username": "root", "ppid": 1 },
+    { "name": "distnoted", "pid": 385, "username": "_appleevents", "ppid": 1 },
+    { "name": "distnoted", "pid": 404, "username": "alfuentes", "ppid": 1 },
+    { "name": "GSSCred", "pid": 411, "username": "root", "ppid": 1 },
+    { "name": "cfprefsd", "pid": 430, "username": "alfuentes", "ppid": 1 },
+    { "name": "securityd_servic", "pid": 434, "username": "root", "ppid": 1 },
+    { "name": "spindump", "pid": 435, "username": "root", "ppid": 1 },
+    { "name": "mobileactivation", "pid": 439, "username": "root", "ppid": 1 },
+    {
+      "name": "UserEventAgent",
+      "pid": 447,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "knowledge-agent",
+      "pid": 449,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "com.apple.sbd", "pid": 453, "username": "alfuentes", "ppid": 1 },
+    { "name": "CommCenter", "pid": 459, "username": "alfuentes", "ppid": 1 },
+    { "name": "APFSUserAgent", "pid": 460, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "networkserviceproxy",
+      "pid": 461,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "nsurlsessiond", "pid": 462, "username": "alfuentes", "ppid": 1 },
+    { "name": "rapportd", "pid": 463, "username": "alfuentes", "ppid": 1 },
+    { "name": "CalendarAgent", "pid": 464, "username": "alfuentes", "ppid": 1 },
+    { "name": "ControlStrip", "pid": 465, "username": "alfuentes", "ppid": 1 },
+    { "name": "WiFiAgent", "pid": 466, "username": "alfuentes", "ppid": 1 },
+    { "name": "usernoted", "pid": 467, "username": "alfuentes", "ppid": 1 },
+    { "name": "routined", "pid": 468, "username": "alfuentes", "ppid": 1 },
+    { "name": "adprivacyd", "pid": 469, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "diagnosticextensionsd",
+      "pid": 471,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "assistantd", "pid": 472, "username": "alfuentes", "ppid": 1 },
+    { "name": "lsd", "pid": 473, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 476,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "neagent", "pid": 477, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 482,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "secd", "pid": 484, "username": "alfuentes", "ppid": 1 },
+    { "name": "Discord", "pid": 486, "username": "alfuentes", "ppid": 1 },
+    { "name": "accountsd", "pid": 488, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "chrome_crashpad_handler",
+      "pid": 489,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "identityservicesd",
+      "pid": 490,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "secinitd", "pid": 491, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Discord Helper (GPU)",
+      "pid": 492,
+      "username": "alfuentes",
+      "ppid": 486
+    },
+    {
+      "name": "Discord Helper",
+      "pid": 493,
+      "username": "alfuentes",
+      "ppid": 486
+    },
+    {
+      "name": "VTDecoderXPCService",
+      "pid": 494,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Discord Helper (Renderer)",
+      "pid": 497,
+      "username": "alfuentes",
+      "ppid": 486
+    },
+    { "name": "pkd", "pid": 505, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "spindump_agent",
+      "pid": 508,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Discord Helper",
+      "pid": 511,
+      "username": "alfuentes",
+      "ppid": 486
+    },
+    { "name": "bird", "pid": 514, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "corespotlightd",
+      "pid": 515,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "swcd", "pid": 516, "username": "alfuentes", "ppid": 1 },
+    { "name": "itunescloudd", "pid": 517, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.apple.hiservices-xpcservice",
+      "pid": 518,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "backgroundtaskmanagementagent",
+      "pid": 519,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "NotificationCenter",
+      "pid": 520,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "trustd", "pid": 521, "username": "alfuentes", "ppid": 1 },
+    { "name": "diagnosticd", "pid": 528, "username": "root", "ppid": 1 },
+    { "name": "WirelessRadioMan", "pid": 533, "username": "root", "ppid": 1 },
+    { "name": "callservicesd", "pid": 534, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Discord Helper (Renderer)",
+      "pid": 536,
+      "username": "alfuentes",
+      "ppid": 486
+    },
+    {
+      "name": "com.apple.siri.embeddedspeech",
+      "pid": 543,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "UserNotificationCenter",
+      "pid": 545,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "TrustedPeersHelper",
+      "pid": 546,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "cdpd", "pid": 548, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "ProtectedCloudKeySyncing",
+      "pid": 549,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Keychain Circle Notification",
+      "pid": 550,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "CloudKeychainProxy",
+      "pid": 552,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "cloudd", "pid": 553, "username": "alfuentes", "ppid": 1 },
+    { "name": "tccd", "pid": 566, "username": "alfuentes", "ppid": 1 },
+    { "name": "AppSSOAgent", "pid": 567, "username": "alfuentes", "ppid": 1 },
+    { "name": "suggestd", "pid": 572, "username": "alfuentes", "ppid": 1 },
+    { "name": "talagent", "pid": 578, "username": "alfuentes", "ppid": 1 },
+    { "name": "Dock", "pid": 579, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "MTLCompilerService",
+      "pid": 587,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "containermanagerd",
+      "pid": 588,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 589,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "filecoordination", "pid": 590, "username": "root", "ppid": 1 },
+    { "name": "ControlCenter", "pid": 591, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 598,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    { "name": "fontd", "pid": 599, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 600,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    { "name": "dmd", "pid": 601, "username": "alfuentes", "ppid": 1 },
+    { "name": "ctkd", "pid": 602, "username": "alfuentes", "ppid": 1 },
+    { "name": "pbs", "pid": 603, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 604,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 605,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 606,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    {
+      "name": "VTDecoderXPCService",
+      "pid": 607,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.AppleU",
+      "pid": 608,
+      "username": "_driverkit",
+      "ppid": 1
+    },
+    {
+      "name": "SystemUIServer",
+      "pid": 611,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "pboard", "pid": 612, "username": "alfuentes", "ppid": 1 },
+    { "name": "CalNCService", "pid": 613, "username": "alfuentes", "ppid": 1 },
+    { "name": "akd", "pid": 620, "username": "alfuentes", "ppid": 1 },
+    { "name": "Finder", "pid": 624, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "ViewBridgeAuxiliary",
+      "pid": 627,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "sharedfilelistd",
+      "pid": 633,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "fontworker", "pid": 634, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "iconservicesagent",
+      "pid": 635,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "useractivityd", "pid": 636, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.apple.dock.extra",
+      "pid": 637,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "QuickLookUIService",
+      "pid": 639,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "AMPDeviceDiscoveryAgent",
+      "pid": 641,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "fileproviderd", "pid": 642, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.apple.siri.ClientFlow.ClientScripter",
+      "pid": 644,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "photolibraryd", "pid": 645, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "ContainerMetadataExtractor",
+      "pid": 646,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "ContactsAccountsService",
+      "pid": 647,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.geod",
+      "pid": 650,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "AMPLibraryAgent",
+      "pid": 651,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "corespeechd", "pid": 652, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "AudioComponentRegistrar",
+      "pid": 653,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "imagent", "pid": 656, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "WiFiVelocityAgent",
+      "pid": 657,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "Spotlight", "pid": 659, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "CallHistoryPluginHelper",
+      "pid": 660,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "imklaunchagent",
+      "pid": 661,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "AssetCacheLocatorService",
+      "pid": 662,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "parsecd", "pid": 666, "username": "alfuentes", "ppid": 1 },
+    { "name": "commerce", "pid": 667, "username": "alfuentes", "ppid": 1 },
+    { "name": "sharingd", "pid": 670, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "IMRemoteURLConnectionAgent",
+      "pid": 673,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "homed", "pid": 674, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "mediaremoteagent",
+      "pid": 675,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "IMRemoteURLConnectionAgent",
+      "pid": 676,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "ScreenTimeAgent",
+      "pid": 677,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "adid", "pid": 682, "username": "_fpsd", "ppid": 1 },
+    { "name": "familycircled", "pid": 683, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "IMRemoteURLConnectionAgent",
+      "pid": 684,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "IMDPersistenceAgent",
+      "pid": 688,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "followupd", "pid": 689, "username": "alfuentes", "ppid": 1 },
+    { "name": "wifivelocityd", "pid": 692, "username": "root", "ppid": 1 },
+    {
+      "name": "com.apple.quicklook.ThumbnailsAgent",
+      "pid": 694,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "PAH_Extension", "pid": 696, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "ContextStoreAgent",
+      "pid": 700,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "PanGPS", "pid": 702, "username": "alfuentes", "ppid": 1 },
+    { "name": "Siri", "pid": 707, "username": "alfuentes", "ppid": 1 },
+    { "name": "icdd", "pid": 708, "username": "alfuentes", "ppid": 1 },
+    { "name": "GlobalProtect", "pid": 709, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "askpermissiond",
+      "pid": 710,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "AirPlayUIAgent",
+      "pid": 712,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "cloudpaird", "pid": 714, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "diagnostics_agent",
+      "pid": 716,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "TextInputMenuAgent",
+      "pid": 717,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "amsaccountsd", "pid": 719, "username": "alfuentes", "ppid": 1 },
+    { "name": "ctkahp", "pid": 721, "username": "alfuentes", "ppid": 1 },
+    { "name": "AssetCache", "pid": 722, "username": "_assetcache", "ppid": 1 },
+    { "name": "triald", "pid": 727, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "TextInputSwitcher",
+      "pid": 730,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "EmojiFunctionRowIM_Extension",
+      "pid": 731,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "fmfd", "pid": 734, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "CoreLocationAgent",
+      "pid": 739,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "gamecontrollerd",
+      "pid": 742,
+      "username": "_gamecontrollerd",
+      "ppid": 1
+    },
+    {
+      "name": "ContextService",
+      "pid": 747,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "SafeEjectGPUAgent",
+      "pid": 755,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.CharacterPicker.FileService",
+      "pid": 757,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "SoftwareUpdateNotificationManager",
+      "pid": 760,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "SafeEjectGPUService",
+      "pid": 768,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "distnoted", "pid": 775, "username": "_assetcache", "ppid": 1 },
+    { "name": "AssetCacheTether", "pid": 776, "username": "root", "ppid": 1 },
+    { "name": "CMFSyncAgent", "pid": 787, "username": "alfuentes", "ppid": 1 },
+    { "name": "ReportCrash", "pid": 810, "username": "alfuentes", "ppid": 1 },
+    { "name": "coresymbolicatio", "pid": 831, "username": "root", "ppid": 1 },
+    { "name": "XprotectService", "pid": 840, "username": "root", "ppid": 1 },
+    { "name": "devicecheckd", "pid": 843, "username": "alfuentes", "ppid": 1 },
+    { "name": "online-authd", "pid": 850, "username": "root", "ppid": 1 },
+    { "name": "com.apple.geod", "pid": 851, "username": "root", "ppid": 1 },
+    {
+      "name": "CarbonComponentScannerXPC",
+      "pid": 858,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "mdbulkimport", "pid": 859, "username": "_spotlight", "ppid": 1 },
+    { "name": "mdbulkimport", "pid": 860, "username": "alfuentes", "ppid": 1 },
+    { "name": "morphunassetsupd", "pid": 877, "username": "root", "ppid": 1 },
+    { "name": "fairplayd", "pid": 879, "username": "_fpsd", "ppid": 1 },
+    { "name": "rtcreportingd", "pid": 886, "username": "root", "ppid": 1 },
+    { "name": "pkd", "pid": 894, "username": "_spotlight", "ppid": 1 },
+    { "name": "trustd", "pid": 896, "username": "_spotlight", "ppid": 1 },
+    { "name": "CrashReporterSup", "pid": 897, "username": "root", "ppid": 1 },
+    {
+      "name": "AssetCacheLocato",
+      "pid": 898,
+      "username": "_assetcache",
+      "ppid": 1
+    },
+    {
+      "name": "assistant_service",
+      "pid": 908,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "IMRemoteURLConnectionAgent",
+      "pid": 917,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.audio.SandboxHelper",
+      "pid": 919,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.Stream",
+      "pid": 923,
+      "username": "_nsurlsessiond",
+      "ppid": 1
+    },
+    { "name": "storeaccountd", "pid": 937, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "containermanager",
+      "pid": 975,
+      "username": "_spotlight",
+      "ppid": 1
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 978,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 979,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 981,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "siriknowledged",
+      "pid": 987,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "FMIPClientXPCService",
+      "pid": 994,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "SafariBookmarksSyncAgent",
+      "pid": 1010,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "SiriNCService",
+      "pid": 1028,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "PlugInLibraryService",
+      "pid": 1101,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "CVMServer", "pid": 1106, "username": "root", "ppid": 1 },
+    { "name": "Docker", "pid": 1109, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.docker.backend",
+      "pid": 1110,
+      "username": "alfuentes",
+      "ppid": 1109
+    },
+    {
+      "name": "com.docker.dev-envs",
+      "pid": 1111,
+      "username": "alfuentes",
+      "ppid": 1109
+    },
+    {
+      "name": "loginitemregisterd",
+      "pid": 1129,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.docker.supervisor",
+      "pid": 1132,
+      "username": "alfuentes",
+      "ppid": 1110
+    },
+    {
+      "name": "com.docker.vpnkit",
+      "pid": 1151,
+      "username": "alfuentes",
+      "ppid": 1132
+    },
+    { "name": "docker", "pid": 1152, "username": "alfuentes", "ppid": 1132 },
+    {
+      "name": "vpnkit-bridge",
+      "pid": 1156,
+      "username": "alfuentes",
+      "ppid": 1132
+    },
+    {
+      "name": "com.docker.driver.amd64-linux",
+      "pid": 1157,
+      "username": "alfuentes",
+      "ppid": 1132
+    },
+    { "name": "uname", "pid": 1162, "username": "alfuentes", "ppid": 1151 },
+    { "name": "tzd", "pid": 1163, "username": "root", "ppid": 1 },
+    { "name": "dprivacyd", "pid": 1164, "username": "root", "ppid": 1 },
+    {
+      "name": "com.docker.hyperkit",
+      "pid": 1174,
+      "username": "alfuentes",
+      "ppid": 1157
+    },
+    { "name": "ssh-agent", "pid": 1214, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1289,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "coreauthd", "pid": 1317, "username": "alfuentes", "ppid": 1 },
+    { "name": "PowerChime", "pid": 1319, "username": "alfuentes", "ppid": 1 },
+    { "name": "USBAgent", "pid": 1323, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "ScreenTimeWidgetExtension",
+      "pid": 1339,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "WeatherWidget",
+      "pid": 1340,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "amsengagementd",
+      "pid": 1350,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "UIKitSystem", "pid": 1357, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "CalendarWidgetExtension",
+      "pid": 1359,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "WorldClockWidget",
+      "pid": 1362,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "StocksWidget", "pid": 1367, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1528,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "system_installd", "pid": 1569, "username": "root", "ppid": 1 },
+    { "name": "coreautha", "pid": 1597, "username": "alfuentes", "ppid": 1 },
+    { "name": "com.apple.audio.", "pid": 1614, "username": "root", "ppid": 1 },
+    { "name": "CAReportingServi", "pid": 1616, "username": "root", "ppid": 1 },
+    { "name": "appstored", "pid": 1794, "username": "_appstore", "ppid": 1 },
+    { "name": "distnoted", "pid": 1814, "username": "_appstore", "ppid": 1 },
+    {
+      "name": "installcoordinat",
+      "pid": 1816,
+      "username": "_installcoordinationd",
+      "ppid": 1
+    },
+    { "name": "akd", "pid": 1818, "username": "root", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1832,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1833,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1834,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1836,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1837,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1838,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1839,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1840,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1841,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1842,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1843,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1844,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1845,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "SafariLaunchAgent",
+      "pid": 1847,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1848,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1849,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1850,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "misagent", "pid": 1853, "username": "root", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 1862,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "lskdd", "pid": 1889, "username": "_fpsd", "ppid": 1 },
+    { "name": "writeconfig", "pid": 1901, "username": "root", "ppid": 1 },
+    {
+      "name": "PasswordBreachAgent",
+      "pid": 1903,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "EscrowSecurityAlert",
+      "pid": 1910,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "appstoreagent",
+      "pid": 1911,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "com.apple.AppSto", "pid": 1912, "username": "root", "ppid": 1 },
+    {
+      "name": "universalAccessAuthWarn",
+      "pid": 1961,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "keyboardservicesd",
+      "pid": 1976,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "OSDUIHelper", "pid": 1993, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2016,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2024,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2026,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2039,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "NowPlayingTouchUI",
+      "pid": 2051,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2155,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2157,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2158,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2159,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2161,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2162,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2163,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2164,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2165,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2166,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2169,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2170,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2269,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2321,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "com.apple.speech.speechsynthesisd",
+      "pid": 2343,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 2352,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "deleted", "pid": 2501, "username": "alfuentes", "ppid": 1 },
+    { "name": "zsh", "pid": 2634, "username": "alfuentes", "ppid": 97520 },
+    {
+      "name": "chrome_crashpad_handler",
+      "pid": 2786,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 3130,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 3131,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "periodic-wrapper", "pid": 3153, "username": "root", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 3431,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "PlugInLibraryService",
+      "pid": 3551,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "PlugInLibraryService",
+      "pid": 3664,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.DictionaryServiceHelper",
+      "pid": 3691,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "log", "pid": 3814, "username": "root", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 3847,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 3849,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 3850,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 3851,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 3852,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "remindd", "pid": 3936, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 4122,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 4175,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "IMAutomaticHistoryDeletionAgent",
+      "pid": 4337,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "ScopedBookmarkAgent",
+      "pid": 4338,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "mapspushd", "pid": 4339, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "transparencyd",
+      "pid": 4349,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "LocationMenu", "pid": 4355, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "mdworker_shared",
+      "pid": 4378,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "mdworker_shared",
+      "pid": 4380,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "cloudphotod", "pid": 4398, "username": "alfuentes", "ppid": 1 },
+    { "name": "storagekitd", "pid": 4431, "username": "root", "ppid": 1 },
+    { "name": "DPSubmissionServ", "pid": 4437, "username": "root", "ppid": 1 },
+    { "name": "cloudd", "pid": 4440, "username": "root", "ppid": 1 },
+    { "name": "sysdiagnose", "pid": 4441, "username": "root", "ppid": 1 },
+    { "name": "replayd", "pid": 4442, "username": "alfuentes", "ppid": 1 },
+    { "name": "symptomsd-diag", "pid": 4443, "username": "root", "ppid": 1 },
+    { "name": "deleted_helper", "pid": 4444, "username": "root", "ppid": 1 },
+    {
+      "name": "MailCacheDelete",
+      "pid": 4446,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "mdworker_shared",
+      "pid": 4464,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "Python", "pid": 4465, "username": "alfuentes", "ppid": 99226 },
+    { "name": "ndoagent", "pid": 4586, "username": "alfuentes", "ppid": 1 },
+    { "name": "ASPCarryLog", "pid": 4587, "username": "root", "ppid": 1 },
+    {
+      "name": "localizationswitcherd",
+      "pid": 4593,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "nbagent", "pid": 4595, "username": "alfuentes", "ppid": 1 },
+    { "name": "nbstated", "pid": 4597, "username": "root", "ppid": 1 },
+    { "name": "periodic-wrapper", "pid": 4601, "username": "root", "ppid": 1 },
+    { "name": "microstackshot", "pid": 4666, "username": "root", "ppid": 1 },
+    {
+      "name": "UsageTrackingAgent",
+      "pid": 4710,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "media-indexer",
+      "pid": 4714,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "PodcastContentService",
+      "pid": 4715,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.BKAgentService",
+      "pid": 4716,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "AMPArtworkAgent",
+      "pid": 4717,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "iCloudNotificationAgent",
+      "pid": 4730,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "passd", "pid": 4732, "username": "alfuentes", "ppid": 1 },
+    { "name": "nfcd", "pid": 4733, "username": "_applepay", "ppid": 1 },
+    { "name": "progressd", "pid": 4735, "username": "alfuentes", "ppid": 1 },
+    { "name": "seld", "pid": 4736, "username": "_applepay", "ppid": 1 },
+    { "name": "distnoted", "pid": 4737, "username": "_applepay", "ppid": 1 },
+    { "name": "avatarsd", "pid": 4739, "username": "alfuentes", "ppid": 1 },
+    { "name": "mdwrite", "pid": 5023, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "QuickLookSatellite",
+      "pid": 5025,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "CoreSpotlightService",
+      "pid": 5065,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerServi",
+      "pid": 5147,
+      "username": "_windowserver",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerServi",
+      "pid": 5148,
+      "username": "_windowserver",
+      "ppid": 1
+    },
+    { "name": "printtool", "pid": 5151, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.apple.CloudDocs.MobileDocumentsFileProvider",
+      "pid": 5154,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "DockHelper", "pid": 5702, "username": "alfuentes", "ppid": 1 },
+    { "name": "log", "pid": 7019, "username": "root", "ppid": 1 },
+    { "name": "log", "pid": 7719, "username": "root", "ppid": 1 },
+    { "name": "log", "pid": 7720, "username": "root", "ppid": 1 },
+    { "name": "log", "pid": 7721, "username": "root", "ppid": 1 },
+    { "name": "aned", "pid": 7878, "username": "root", "ppid": 1 },
+    { "name": "log", "pid": 8645, "username": "root", "ppid": 1 },
+    { "name": "studentd", "pid": 11511, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "DiskUnmountWatcher",
+      "pid": 13370,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.DFRSystemExtra.Siri",
+      "pid": 16096,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.audio.SandboxHelper",
+      "pid": 16097,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.audio.SandboxHelper",
+      "pid": 16099,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "java", "pid": 18356, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "colorsync.useragent",
+      "pid": 19501,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.Safari.SafeBrowsing.Service",
+      "pid": 20937,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "tailspind", "pid": 21240, "username": "root", "ppid": 1 },
+    { "name": "com.paloaltonetw", "pid": 23890, "username": "root", "ppid": 1 },
+    {
+      "name": "chrome_crashpad_handler",
+      "pid": 24873,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "java", "pid": 26356, "username": "alfuentes", "ppid": 1 },
+    { "name": "aslmanager", "pid": 27173, "username": "root", "ppid": 1 },
+    {
+      "name": "photoanalysisd",
+      "pid": 27596,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "periodic-wrapper", "pid": 27965, "username": "root", "ppid": 1 },
+    {
+      "name": "DataDetectorsSou",
+      "pid": 27990,
+      "username": "_datadetectors",
+      "ppid": 1
+    },
+    {
+      "name": "storedownloadd",
+      "pid": 29158,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "installd", "pid": 29159, "username": "root", "ppid": 1 },
+    {
+      "name": "MusicCacheExtension",
+      "pid": 29160,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "TVCacheExtension",
+      "pid": 29162,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "CacheDeleteExtension",
+      "pid": 29163,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 29988,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 29989,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.audio.SandboxHelper",
+      "pid": 33090,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MailNotificationContentExtension",
+      "pid": 33572,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.WebKit.WebContent",
+      "pid": 33604,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "com.apple.WebKit.Networking",
+      "pid": 33610,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 33650,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 33651,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "recentsd", "pid": 34080, "username": "alfuentes", "ppid": 1 },
+    { "name": "log", "pid": 34417, "username": "root", "ppid": 1 },
+    {
+      "name": "reversetemplated",
+      "pid": 35928,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "maild", "pid": 37572, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "contactsdonationagent",
+      "pid": 37584,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "package_script_s", "pid": 41106, "username": "root", "ppid": 1 },
+    { "name": "mdworker", "pid": 41166, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.apple.appkit.xpc.openAndSavePanelService",
+      "pid": 50402,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "QuickLookUIService",
+      "pid": 50403,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 50404,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 50405,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "suhelperd", "pid": 51987, "username": "root", "ppid": 1 },
+    { "name": "mdworker", "pid": 57494, "username": "_spotlight", "ppid": 1 },
+    {
+      "name": "chrome_crashpad_handler",
+      "pid": 60752,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "java", "pid": 62425, "username": "alfuentes", "ppid": 1 },
+    { "name": "taskgated", "pid": 63547, "username": "root", "ppid": 1 },
+    {
+      "name": "CalendarNotificationContentExtension_OSX",
+      "pid": 65207,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "hubd", "pid": 71921, "username": "root", "ppid": 1 },
+    { "name": "hubflagd", "pid": 71926, "username": "root", "ppid": 1 },
+    {
+      "name": "IntelligentHubAgent",
+      "pid": 72054,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "awcmd", "pid": 72327, "username": "root", "ppid": 1 },
+    {
+      "name": "ArchiveService",
+      "pid": 72388,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 73558,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 73560,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "fontd", "pid": 83973, "username": "_atsserver", "ppid": 1 },
+    {
+      "name": "com.apple.siri.ClientFlow.ClientScripter",
+      "pid": 88309,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "log", "pid": 88742, "username": "root", "ppid": 71921 },
+    { "name": "com.crowdstrike.", "pid": 89332, "username": "root", "ppid": 1 },
+    { "name": "FXService", "pid": 89336, "username": "root", "ppid": 1 },
+    { "name": "PredictService", "pid": 89337, "username": "root", "ppid": 1 },
+    { "name": "PerfPowerService", "pid": 90670, "username": "root", "ppid": 1 },
+    {
+      "name": "PlugInLibraryService",
+      "pid": 91048,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "installerauthagent",
+      "pid": 91933,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "com.apple.Mobile", "pid": 91936, "username": "root", "ppid": 1 },
+    { "name": "xpcroleaccountd", "pid": 91937, "username": "root", "ppid": 1 },
+    {
+      "name": "MTLCompilerService",
+      "pid": 94104,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 94105,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "AppleSpell", "pid": 94813, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Falcon Notifications",
+      "pid": 95233,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "screencaptureui",
+      "pid": 95307,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "installerdiagd", "pid": 96402, "username": "root", "ppid": 1 },
+    {
+      "name": "softwareupdated",
+      "pid": 96415,
+      "username": "_softwareupdate",
+      "ppid": 1
+    },
+    { "name": "netbiosd", "pid": 97011, "username": "_netbios", "ppid": 1 },
+    { "name": "Slack", "pid": 97059, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "Google Chrome",
+      "pid": 97070,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "chrome_crashpad_handler",
+      "pid": 97077,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "CoreServicesUIAgent",
+      "pid": 97078,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "chrome_crashpad_handler",
+      "pid": 97079,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Google Chrome Helper (GPU)",
+      "pid": 97082,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper",
+      "pid": 97083,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "sandboxd", "pid": 97084, "username": "root", "ppid": 1 },
+    {
+      "name": "Google Chrome Helper",
+      "pid": 97085,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Slack Helper (GPU)",
+      "pid": 97086,
+      "username": "alfuentes",
+      "ppid": 97059
+    },
+    {
+      "name": "VTDecoderXPCService",
+      "pid": 97096,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "VTDecoderXPCService",
+      "pid": 97097,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Slack Helper",
+      "pid": 97098,
+      "username": "alfuentes",
+      "ppid": 97059
+    },
+    {
+      "name": "Slack Helper (Renderer)",
+      "pid": 97101,
+      "username": "alfuentes",
+      "ppid": 97059
+    },
+    {
+      "name": "VTEncoderXPCService",
+      "pid": 97102,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "VTEncoderXPCService",
+      "pid": 97103,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 97125,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 97127,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper",
+      "pid": 97195,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "com.apple.audio.SandboxHelper",
+      "pid": 97200,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "Electron", "pid": 97439, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "chrome_crashpad_handler",
+      "pid": 97442,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Code Helper (GPU)",
+      "pid": 97443,
+      "username": "alfuentes",
+      "ppid": 97439
+    },
+    {
+      "name": "VTDecoderXPCService",
+      "pid": 97444,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Code Helper",
+      "pid": 97445,
+      "username": "alfuentes",
+      "ppid": 97439
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 97518,
+      "username": "alfuentes",
+      "ppid": 97439
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 97520,
+      "username": "alfuentes",
+      "ppid": 97518
+    },
+    { "name": "zsh", "pid": 97621, "username": "alfuentes", "ppid": 97520 },
+    {
+      "name": "MTLCompilerService",
+      "pid": 97946,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 98025,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "MTLCompilerService",
+      "pid": 98026,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    { "name": "bosreporter", "pid": 98229, "username": "root", "ppid": 1 },
+    {
+      "name": "Slack Helper",
+      "pid": 98616,
+      "username": "alfuentes",
+      "ppid": 97059
+    },
+    {
+      "name": "com.apple.audio.SandboxHelper",
+      "pid": 98617,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98665,
+      "username": "alfuentes",
+      "ppid": 97439
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98666,
+      "username": "alfuentes",
+      "ppid": 98665
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98667,
+      "username": "alfuentes",
+      "ppid": 98665
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98692,
+      "username": "alfuentes",
+      "ppid": 98666
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98693,
+      "username": "alfuentes",
+      "ppid": 98666
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98709,
+      "username": "alfuentes",
+      "ppid": 98666
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98734,
+      "username": "alfuentes",
+      "ppid": 98666
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98753,
+      "username": "alfuentes",
+      "ppid": 98666
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98818,
+      "username": "alfuentes",
+      "ppid": 98666
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98819,
+      "username": "alfuentes",
+      "ppid": 98666
+    },
+    {
+      "name": "Code Helper (Renderer)",
+      "pid": 98830,
+      "username": "alfuentes",
+      "ppid": 98819
+    },
+    { "name": "zsh", "pid": 99226, "username": "alfuentes", "ppid": 97520 },
+    {
+      "name": "com.apple.appkit.xpc.openAndSavePanelService",
+      "pid": 99346,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "QuickLookUIService",
+      "pid": 99347,
+      "username": "alfuentes",
+      "ppid": 1
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 99499,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 99559,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    {
+      "name": "Google Chrome Helper (Renderer)",
+      "pid": 99907,
+      "username": "alfuentes",
+      "ppid": 97070
+    },
+    { "name": "iTerm2", "pid": 99913, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "iTermServer-3.4.8",
+      "pid": 99914,
+      "username": "alfuentes",
+      "ppid": 99913
+    },
+    { "name": "pidinfo", "pid": 99921, "username": "alfuentes", "ppid": 1 },
+    {
+      "name": "com.apple.Safari.History",
+      "pid": 99996,
+      "username": "alfuentes",
+      "ppid": 1
+    }
+  ],
+  "osname": "Darwin",
+  "osversion": "20.5.0",
+  "cpu": {
+    "architecture": "Intel(R) Core(TM) i7-1068NG7 CPU @ 2.30GHz",
+    "cpu_logical_core": 8,
+    "cpu_fisic_core": 4,
+    "brand": "Intel(R) Core(TM) i7-1068NG7 CPU @ 2.30GHz"
+  }
+}
