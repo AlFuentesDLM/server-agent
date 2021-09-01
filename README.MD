@@ -18,9 +18,9 @@ this repository contains a short script that gather data from the system where i
 ~~~
 expected output
 ~~~bash
-> the request was successfully sent to the audit server
-> make a get request to our api to see the results
-> http://audit-server.../api/v1/audit/4
-> http://audit-server.../api/v1/audit/4/process
-> http://audit-server/api/v1/audit/4/users
+    the request was successfully sent to the audit server
+    make a get request to our api to see the results
+    http://audit-server.../api/v1/audit/4
+    http://audit-server.../api/v1/audit/4/process
+    http://audit-server.../api/v1/audit/4/users
 ~~~
